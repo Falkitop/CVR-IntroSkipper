@@ -1,5 +1,5 @@
 # ChilloutVR-IntroSkipper
-Lets you skip the intro at the beginning of the game.
+Lets you skip the intro at the beginning of the game. MelonLoader Only
 
 # Building this project
 
