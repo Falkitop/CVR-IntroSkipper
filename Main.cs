@@ -3,8 +3,6 @@ using UnityEngine.SceneManagement;
 
 namespace IntroSkipper
 {
-
-    ///If Many errors, VS is so stupid, refresh the outputpath
     public static class BuildInfo
     {
         public const string Name = "IntroSkipper";
